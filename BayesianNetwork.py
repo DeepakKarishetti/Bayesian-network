@@ -1,7 +1,7 @@
 '''
 CSCI-404
 Deepak Rajasekhar Karishetti
-10846936
+CSM
 '''
 
 # Bayesian network class:
