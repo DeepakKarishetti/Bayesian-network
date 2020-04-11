@@ -20,12 +20,12 @@
 
 **How to run the code**
 
-	```To run the code on linux terminal:```
+	To run the code on linux terminal:
 		- open a terminal at the file destination and type the following example implementation command:
 
 		$ python bnet.py Bt Af Mf Jt Et
 
-	```To run the code on Windows:```
+	To run the code on Windows:
 		- Open a terminal at the file location and type the following example implementation:
 
 		$ python bnet.py Bt Af Mf Jt Et 
